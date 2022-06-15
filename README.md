@@ -1,5 +1,6 @@
 # Laravel Nova Permissions (Roles and Permission based Access Control (ACL))
 
+
 Add Access Control by means of User based Roles and Permissions to your Nova installation. Includes default User and Role Policies which can be managed through your Nova Admin Panel.
 
 ![Tool Demo](https://raw.githubusercontent.com/Silvanite/novatoolpermissions/master/preview-demo.gif)
