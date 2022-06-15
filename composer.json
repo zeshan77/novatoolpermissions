@@ -25,7 +25,7 @@
         "php": ">=7.4",
         "laravel/framework": ">=8.0",
         "silvanite/brandenburg": "^1.0",
-        "silvanite/novafieldcheckboxes": "dev-nova-4"
+        "silvanite/novafieldcheckboxes": "dev-master"
     },
     "require-dev": {
         "squizlabs/php_codesniffer": ">=3.1",
@@ -43,7 +43,7 @@
         },
         {
             "type": "vcs",
-            "url": "https://github.com/boxraiser/novafieldcheckboxes"
+            "url": "https://github.com/zeshan77/novafieldcheckboxes"
         }
     ],
     "extra": {
